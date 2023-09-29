@@ -12,13 +12,13 @@
 
 <script>
     var firebaseConfig = {
-    apiKey: "AIzaSyCSR7ikpomtsxj0qDsSQ-EL6HZjVq3Z1co",
-    authDomain: "otp-verification-app-985d7.firebaseapp.com",
-    projectId: "otp-verification-app-985d7",
-    storageBucket: "otp-verification-app-985d7.appspot.com",
-    messagingSenderId: "707490693482",
-    appId: "1:707490693482:web:2326b190aa42d70fa76513",
-    measurementId: "G-51LLJ33G4C"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
     firebase.initializeApp(firebaseConfig);
 </script>
